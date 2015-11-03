@@ -1,0 +1,144 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="gslvpa.SiteMaster" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8" />
+        <title>
+            2013 © Gujarati Samaj of Lehigh Valley, PA. | All rights reserved.        
+		</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        <link rel="stylesheet" type="text/css" media="all" href="./infoway/style.css" />
+        <link rel="shortcut icon" href="./infoway/images/favicon.ico" />
+    </head>
+    <body class="home page page-id-9 page-template-default" id="regal_body" style=" background: fixed url('./wp-content/uploads/2013/07/guj-003.jpg') ">
+        <div class="wrapper">
+            <div class="body_wrapper">
+                <div class="topmain_wrapper">
+                    <div class="topinfobar" id="topinfobox">
+                        <div class="container_24">
+                            <div class="grid_24">
+                                <div class="grid_5 alpha">
+                                    <div class="socialicon">
+                                        <ul class="social_logos">
+                                                                                                                                                                                                                                                                                                                </ul>
+                                    </div>
+                                </div>
+                                <div class="grid_15"> <span class="info"> <p> Welcome to the Lehigh Valley Gujarati Samaj </p> </span></div>
+                                <div class="grid_2">
+                                    <div class="siteinfourl"><a href=""> <p> Home </p> </a></div>
+                                </div>
+                                <div class="grid_2 omega">
+                                    <div class="closeicon"><a href="javascript:hide_all();"><img src="./infoway/images/close-icon.png"  /></a></div>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="toptip"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_24">
+                    <div class="grid_24">
+                        <div class="header" id="#top">
+                            <div class="grid_12 alpha">
+                                <div class="logo"><a href="/"><img src="./wp-content/uploads/2013/07/gslv-small.jpg" alt="2013 © Gujarati Samaj of Lehigh Valley, PA." /></a></div>
+                            </div>
+                            <div class="grid_12 omega">&nbsp;&nbsp;&nbsp;
+                                <div class="contactinfo"><img src="./infoway/images/mobile-icon.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                            <span class="calldetails">Call: 1.610.349.3242</span>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="wrapper_menu">
+                            <div class="menu_container">
+                                <div class="menu_bar">
+                                    <div id="MainNav"> <a href="#" class="mobile_nav closed">Pages Navigation Menu<span></span></a>
+                                        <div id="menu" class="menu-topmenu-container">
+                                            <ul id="menu-topmenu" class="ddsmoothmenu">
+                                            <li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-25"><a href="./default.aspx">Home</a></li>
+                                            <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="bodirectors.aspx">Board Members</a></li>
+                                            <li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="membershipform.aspx">Membership Form</a></li>
+                                            <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="contactus.aspx">Contact</a></li>
+                                        </ul>
+</div>                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>  
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+                </div>
+    </div>
+    <div class="clear"></div>
+        </div>
+      <div class="footer-wrapper">
+    <div class="footer">
+        <div class="container_24">
+            <div class="grid_24">
+                <div class="grid_6 alpha">
+    <div class="footer_widget first">
+                    <h4>Our Address</h4>			<div class="textwidget"></div>
+		            </div>
+</div>
+<div class="grid_6">
+    <div class="footer_widget second">
+                    <h4>Photo Gallery</h4><div class="menu-links-container"><ul id="menu-links" class="menu"><li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="./error.htm">Membership Form</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://gslvpa.org/donate/">Donate</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://gslvpa.org/gujarat-news/">Gujarat News</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://gslvpa.org/entertainment/">Entertainment</a></li>
+</ul></div>          
+    </div>
+</div>
+<div class="grid_6">
+    <div class="footer_widget third">
+                    <h4>Links</h4><div class="menu-links-container"><ul id="menu-links-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="./error.htm">Membership Form</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://gslvpa.org/donate/">Donate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://gslvpa.org/gujarat-news/">Gujarat News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://gslvpa.org/entertainment/">Entertainment</a></li>
+</ul></div>            </div>
+</div>
+<div class="grid_6 omega">
+    <div class="footer_widget last">
+                    <h4>Search Site</h4>
+            <form class="searchform" action="#" method="get">
+                <input onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}"  value="Search" type="text" value="" name="s" id="s" />
+                <input type="submit" value="" name="submit"/>
+            </form>
+            </div>
+</div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="footersep"></div>
+        <div class="clear"></div>
+        <div class="footer-bottom-wrapper">
+            <div class="footer-bottom">
+                <div class="container_24">
+                    <div class="grid_24">
+                        <div class="copyrightinfo">
+                            <div class="grid_12 alpha">
+                            <p class="blogdes">  <span class="blog-desc">				
+                                    2013 © Gujarati Samaj of Lehigh Valley, PA.                                    -
+                                    All rights reserved.                                </span></p>
+                            </div>
+                            <div class="grid_12 omega">
+                                                            <p class="copyright"> <a href="http://www.inkthemes.com">Infoway Theme</a> powered by <a href="http://www.wordpress.org">WordPress</a></p>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+            </div>
+        </div>
+<!-- container -->
+<script type='text/javascript' src='./wp-content/js/devicepx-jetpack.js?ver=201351'></script>
+<script type='text/javascript' src='./infoway/js/mobile-menu.js?ver=3.5.2'></script>
+</body>
+</html>

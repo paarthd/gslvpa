@@ -1,0 +1,5 @@
+C:\personal\GSLV\DotNet\gslvpa\gslvpa\bin\gslvpa.dll
+C:\personal\GSLV\DotNet\gslvpa\gslvpa\bin\gslvpa.pdb
+C:\personal\GSLV\DotNet\gslvpa\gslvpa\obj\Debug\ResolveAssemblyReference.cache
+C:\personal\GSLV\DotNet\gslvpa\gslvpa\obj\Debug\gslvpa.dll
+C:\personal\GSLV\DotNet\gslvpa\gslvpa\obj\Debug\gslvpa.pdb
